@@ -1,9 +1,9 @@
 ---
-title: "About Me"
+title: "Bio"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/IMG_6449.png
 ---
 
 :::{#me}
